@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067148967536906240",
+        "3_2067148967625048064",
+        "3_2067148967557906433"
+      ],
+      "media_source_tweet_id": [
+        "2067148977494216756",
+        "2067148977494216756",
+        "2067148977494216756"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2067175522803818584",
+    "created_at": "2026-06-17T09:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067175522803818584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1616986447348912128",
+          "start": 3,
+          "username": "Beilafu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sgJwHN0XxC",
+          "end": 130,
+          "expanded_url": "https://x.com/Beilafu_/status/2067148977494216756/photo/1",
+          "media_key": "3_2067148967536906240",
+          "start": 107,
+          "url": "https://t.co/sgJwHN0XxC"
+        },
+        {
+          "display_url": "pic.x.com/sgJwHN0XxC",
+          "end": 130,
+          "expanded_url": "https://x.com/Beilafu_/status/2067148977494216756/photo/1",
+          "media_key": "3_2067148967625048064",
+          "start": 107,
+          "url": "https://t.co/sgJwHN0XxC"
+        },
+        {
+          "display_url": "pic.x.com/sgJwHN0XxC",
+          "end": 130,
+          "expanded_url": "https://x.com/Beilafu_/status/2067148977494216756/photo/1",
+          "media_key": "3_2067148967557906433",
+          "start": 107,
+          "url": "https://t.co/sgJwHN0XxC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067175522803818584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067148977494216756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Beilafu_: 前段时间x被骗子盗号，骗子一直在用我的私信骗门槛。现在已更改密码，所有私信拉黑已解除，如果被骗过门，大家请再私信联系我一次，非常抱歉…\n（p1p2都不是我发的，门哥让朋友联系我我才知道 https://t.co/sgJwHN0XxC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067148967536906240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_9CKPaUAAc6Ja.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067148967625048064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_9CKkbQAAXJOY.jpg",
+        "width": 386
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067148967557906433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_9CKUawAEgx48.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067148967536906240",
+            "3_2067148967625048064",
+            "3_2067148967557906433"
+          ],
+          "media_source_tweet_id": [
+            "2067148977494216756",
+            "2067148977494216756",
+            "2067148977494216756"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2067175522803818584",
+        "created_at": "2026-06-17T09:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067175522803818584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1616986447348912128",
+              "start": 3,
+              "username": "Beilafu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgJwHN0XxC",
+              "end": 130,
+              "expanded_url": "https://x.com/Beilafu_/status/2067148977494216756/photo/1",
+              "media_key": "3_2067148967536906240",
+              "start": 107,
+              "url": "https://t.co/sgJwHN0XxC"
+            },
+            {
+              "display_url": "pic.x.com/sgJwHN0XxC",
+              "end": 130,
+              "expanded_url": "https://x.com/Beilafu_/status/2067148977494216756/photo/1",
+              "media_key": "3_2067148967625048064",
+              "start": 107,
+              "url": "https://t.co/sgJwHN0XxC"
+            },
+            {
+              "display_url": "pic.x.com/sgJwHN0XxC",
+              "end": 130,
+              "expanded_url": "https://x.com/Beilafu_/status/2067148977494216756/photo/1",
+              "media_key": "3_2067148967557906433",
+              "start": 107,
+              "url": "https://t.co/sgJwHN0XxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067175522803818584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067148977494216756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Beilafu_: 前段时间x被骗子盗号，骗子一直在用我的私信骗门槛。现在已更改密码，所有私信拉黑已解除，如果被骗过门，大家请再私信联系我一次，非常抱歉…\n（p1p2都不是我发的，门哥让朋友联系我我才知道 https://t.co/sgJwHN0XxC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067148967536906240",
+            "3_2067148967625048064",
+            "3_2067148967557906433"
+          ]
+        },
+        "author_id": "1616986447348912128",
+        "conversation_id": "2067148977494216756",
+        "created_at": "2026-06-17T07:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067148977494216756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sgJwHN0XxC",
+              "end": 116,
+              "expanded_url": "https://x.com/Beilafu_/status/2067148977494216756/photo/1",
+              "media_key": "3_2067148967536906240",
+              "start": 93,
+              "url": "https://t.co/sgJwHN0XxC"
+            },
+            {
+              "display_url": "pic.x.com/sgJwHN0XxC",
+              "end": 116,
+              "expanded_url": "https://x.com/Beilafu_/status/2067148977494216756/photo/1",
+              "media_key": "3_2067148967625048064",
+              "start": 93,
+              "url": "https://t.co/sgJwHN0XxC"
+            },
+            {
+              "display_url": "pic.x.com/sgJwHN0XxC",
+              "end": 116,
+              "expanded_url": "https://x.com/Beilafu_/status/2067148977494216756/photo/1",
+              "media_key": "3_2067148967557906433",
+              "start": 93,
+              "url": "https://t.co/sgJwHN0XxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067148977494216756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "前段时间x被骗子盗号，骗子一直在用我的私信骗门槛。现在已更改密码，所有私信拉黑已解除，如果被骗过门，大家请再私信联系我一次，非常抱歉…\n（p1p2都不是我发的，门哥让朋友联系我我才知道 https://t.co/sgJwHN0XxC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 106,
+          "like_count": 56,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T02:29:57.000Z",
+        "description": "🇦🇺🇨🇳/#edtwt/精神有疾病，性格不健全\n/男孩女孩交朋友大欢迎❕/istp",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1616986447348912128",
+        "location": "Shanghai",
+        "name": "沙丁鱼从地面钻出来",
+        "pinned_tweet_id": "1966358155589476744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876700894957563904/BBfqsmIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 853,
+          "like_count": 706,
+          "listed_count": 2,
+          "media_count": 236,
+          "tweet_count": 2077
+        },
+        "username": "Beilafu_",
+        "verified": true
+      }
+    ]
+  }
+}

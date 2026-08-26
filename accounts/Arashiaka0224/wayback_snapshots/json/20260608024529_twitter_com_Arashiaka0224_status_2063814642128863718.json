@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2063686663633874987",
+    "created_at": "2026-06-08T02:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063814642128863718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1826722103305084928",
+          "start": 0,
+          "username": "qngxiomo188612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063814642128863718",
+    "in_reply_to_user_id": "1826722103305084928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063686663633874987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngxiomo188612 我也这么想过但是当一个中年啤酒肚老头用他的小黑吊插你逼的时候真的能爽起来吗🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2063686663633874987",
+        "created_at": "2026-06-08T02:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063814642128863718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1826722103305084928",
+              "start": 0,
+              "username": "qngxiomo188612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063814642128863718",
+        "in_reply_to_user_id": "1826722103305084928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063686663633874987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngxiomo188612 我也这么想过但是当一个中年啤酒肚老头用他的小黑吊插你逼的时候真的能爽起来吗🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826722103305084928",
+        "conversation_id": "2063686663633874987",
+        "created_at": "2026-06-07T18:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063686663633874987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063686663633874987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1212,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当咯咯哒对我来说已经算是比较好的出路了 不需要埋头苦干的工作出卖体力也不会有同事领导的勾心斗角排挤也不会挨骂 可以在空调房里悠哉悠哉 化好看的妆 可以穿好看的裙子 躺在柔软的床上 逼还爽爽的 （没有劝任何人下海的意思 我自言自语而已 没闺蜜和我聊天了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 79,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T20:44:58.000Z",
+        "description": "广佛深莞｜只回复口令红包 骚扰信息会拉黑 喜欢请投喂🐈‍⬛偷我照片的人4000+ 财运全部转给我 替我挡灾",
+        "id": "1826722103305084928",
+        "location": "🚪188/520/888/1314",
+        "name": "坏",
+        "pinned_tweet_id": "2063253047653093535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929301021756645376/MtbMOtDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21035,
+          "following_count": 26,
+          "like_count": 4797,
+          "listed_count": 62,
+          "media_count": 44,
+          "tweet_count": 102
+        },
+        "username": "qngxiomo188612",
+        "verified": false
+      }
+    ]
+  }
+}

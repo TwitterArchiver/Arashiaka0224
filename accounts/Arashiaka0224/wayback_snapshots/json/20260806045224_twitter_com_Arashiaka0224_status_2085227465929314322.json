@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2084956389949223002",
+    "created_at": "2026-08-06T04:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085227465929314322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055376212751470593",
+          "start": 0,
+          "username": "AngelMayLies"
+        },
+        {
+          "end": 28,
+          "id": "1730251057316737024",
+          "start": 14,
+          "username": "SRamirez66171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085227465929314322",
+    "in_reply_to_user_id": "2055376212751470593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084957698232320359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngelMayLies @SRamirez66171 微信小程序做梦心理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2084956389949223002",
+        "created_at": "2026-08-06T04:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085227465929314322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055376212751470593",
+              "start": 0,
+              "username": "AngelMayLies"
+            },
+            {
+              "end": 28,
+              "id": "1730251057316737024",
+              "start": 14,
+              "username": "SRamirez66171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085227465929314322",
+        "in_reply_to_user_id": "2055376212751470593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084957698232320359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngelMayLies @SRamirez66171 微信小程序做梦心理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055376212751470593",
+        "conversation_id": "2084956389949223002",
+        "created_at": "2026-08-05T11:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084957698232320359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730251057316737024",
+              "start": 0,
+              "username": "SRamirez66171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084957698232320359",
+        "in_reply_to_user_id": "1730251057316737024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084956389949223002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SRamirez66171 求链接，，好多人都在发这个我也想玩T_T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 147,
+          "like_count": 117,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T19:54:20.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学|⚠#5htwt #drugtwt ⚠️(不经常)|我是Dizzy也可以叫我枭儿| he/them | #dmctwt 🍕| it's fine to stay slay｜同人女被我关注别害怕我就是个乐子",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 49,
+                "tag": "5htwt"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "dmctwt"
+              }
+            ]
+          }
+        },
+        "id": "2055376212751470593",
+        "location": "Redgrave🩸",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2081763087821209966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084996014550007808/zOesgzcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 66,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 809
+        },
+        "url": "",
+        "username": "AngelMayLies",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083442331383177351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 256,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 356
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

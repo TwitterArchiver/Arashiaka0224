@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084597239687815168"
+      ],
+      "media_source_tweet_id": [
+        "2084597279516999734"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2084688683035427092",
+    "created_at": "2026-08-04T17:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084688683035427092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061397607839305728",
+          "start": 3,
+          "username": "uucaxen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LpfWiIUIUf",
+          "end": 106,
+          "expanded_url": "https://x.com/uucaxen/status/2084597279516999734/video/1",
+          "media_key": "13_2084597239687815168",
+          "start": 83,
+          "url": "https://t.co/LpfWiIUIUf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084688683035427092",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084597279516999734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uucaxen: 夜の歌舞伎町荒れすぎ...\n\nコイキが殴られるwwww\n\nインフルエンサーコイキ\n夜の歌舞伎町を徘徊している最中理不尽に反社から襲われる。 https://t.co/LpfWiIUIUf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52520,
+        "height": 1280,
+        "media_key": "13_2084597239687815168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084597239687815168/img/yz9FmN9pcanRN6sl.jpg",
+        "public_metrics": {
+          "view_count": 24459
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084597239687815168/vid/avc1/320x568/FwTYhBQKZ8Zno7io.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084597239687815168/vid/avc1/480x852/gv30uaaekET3obY2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084597239687815168/vid/avc1/720x1280/9269mzNuoDI4217c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084597239687815168/pl/G6cv224VEnmaiGyP.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084597239687815168"
+          ]
+        },
+        "author_id": "2061397607839305728",
+        "conversation_id": "2084597279516999734",
+        "created_at": "2026-08-04T11:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084597279516999734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpfWiIUIUf",
+              "end": 93,
+              "expanded_url": "https://x.com/uucaxen/status/2084597279516999734/video/1",
+              "media_key": "13_2084597239687815168",
+              "start": 70,
+              "url": "https://t.co/LpfWiIUIUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084597279516999734",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 67558,
+          "like_count": 418,
+          "quote_count": 25,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "夜の歌舞伎町荒れすぎ...\n\nコイキが殴られるwwww\n\nインフルエンサーコイキ\n夜の歌舞伎町を徘徊している最中理不尽に反社から襲われる。 https://t.co/LpfWiIUIUf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084597239687815168"
+          ],
+          "media_source_tweet_id": [
+            "2084597279516999734"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2084688683035427092",
+        "created_at": "2026-08-04T17:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084688683035427092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061397607839305728",
+              "start": 3,
+              "username": "uucaxen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpfWiIUIUf",
+              "end": 106,
+              "expanded_url": "https://x.com/uucaxen/status/2084597279516999734/video/1",
+              "media_key": "13_2084597239687815168",
+              "start": 83,
+              "url": "https://t.co/LpfWiIUIUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084688683035427092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084597279516999734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uucaxen: 夜の歌舞伎町荒れすぎ...\n\nコイキが殴られるwwww\n\nインフルエンサーコイキ\n夜の歌舞伎町を徘徊している最中理不尽に反社から襲われる。 https://t.co/LpfWiIUIUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 148,
+          "like_count": 114,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T10:42:59.000Z",
+        "description": "こっちに載せる▶︎@rxeaxe\nインスタ▶︎ tenseiaka_ \n全てインスタで公開する",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "rxeaxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tenseiaka__?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/tenseiaka__?igsh=MW9wOXhvcHVrdmM1cA==",
+                "start": 0,
+                "url": "https://t.co/SF6kphaKKa"
+              }
+            ]
+          }
+        },
+        "id": "2061397607839305728",
+        "location": "インスタ",
+        "name": "なぎさ",
+        "pinned_tweet_id": "2070468623655698478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084566077074456577/JR0Jaewe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 4,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/SF6kphaKKa",
+        "username": "uucaxen",
+        "verified": true
+      }
+    ]
+  }
+}

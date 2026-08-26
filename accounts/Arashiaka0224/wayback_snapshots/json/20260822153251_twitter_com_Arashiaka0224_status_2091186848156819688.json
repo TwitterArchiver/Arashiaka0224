@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2091186826254098432"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2091186848156819688",
+    "created_at": "2026-08-22T15:32:51.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091186848156819688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/47dNvJu97O",
+          "end": 30,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2091186848156819688/photo/1",
+          "media_key": "16_2091186826254098432",
+          "start": 7,
+          "url": "https://t.co/47dNvJu97O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091186848156819688",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2091186826254098432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天玩水去了 https://t.co/47dNvJu97O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2091186826254098432",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQVjVsHaIAA3U4u.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQVjVsHaIAA3U4u.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091186826254098432"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2091186848156819688",
+        "created_at": "2026-08-22T15:32:51.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091186848156819688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47dNvJu97O",
+              "end": 30,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2091186848156819688/photo/1",
+              "media_key": "16_2091186826254098432",
+              "start": 7,
+              "url": "https://t.co/47dNvJu97O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091186848156819688",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2091186826254098432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天玩水去了 https://t.co/47dNvJu97O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2091186848156819688",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1784380464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 184,
+          "like_count": 229,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

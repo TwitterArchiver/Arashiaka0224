@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2064587071747153950",
+    "created_at": "2026-06-10T05:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064587071747153950"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiangsaixue520…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/xiangsaixue520/status/2064143908872102256",
+          "start": 2,
+          "url": "https://t.co/SR95cTAjaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064587071747153950",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064143908872102256",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。 https://t.co/SR95cTAjaa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2064143894879830016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVP76OagAAQVFK.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2064587071747153950",
+        "created_at": "2026-06-10T05:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064587071747153950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiangsaixue520…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/xiangsaixue520/status/2064143908872102256",
+              "start": 2,
+              "url": "https://t.co/SR95cTAjaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064587071747153950",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064143908872102256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。 https://t.co/SR95cTAjaa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064143894879830016"
+          ]
+        },
+        "author_id": "1809087716182872064",
+        "conversation_id": "2064143908872102256",
+        "created_at": "2026-06-09T00:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064143908872102256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wTYfIuyCDC",
+              "end": 30,
+              "expanded_url": "https://x.com/xiangsaixue520/status/2064143908872102256/photo/1",
+              "media_key": "3_2064143894879830016",
+              "start": 7,
+              "url": "https://t.co/wTYfIuyCDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064143908872102256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 120005,
+          "like_count": 2296,
+          "quote_count": 7,
+          "reply_count": 164,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "什么地狱图！ https://t.co/wTYfIuyCDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 88,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T04:51:59.000Z",
+        "description": "鬓云欲度香腮雪，懒起画峨眉，弄妆梳洗迟\n很温柔，甜度很高，不能食用哦🙄\n已经工作啦，喜欢传播新闻和美好\n爱文学，历史，哲学，旅游，拍照，游戏，还有羽毛球🏸\n小号@Caibupa333，防止又挂了\n＃好朋友@qinglongxiangmo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "好朋友"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "Caibupa333"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "qinglongxiangmo"
+              }
+            ]
+          }
+        },
+        "id": "1809087716182872064",
+        "location": "Hong Kong",
+        "name": "小雪妹妹",
+        "pinned_tweet_id": "2059865683819930019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824801467775209473/QKH97UGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3347,
+          "following_count": 587,
+          "like_count": 7064,
+          "listed_count": 14,
+          "media_count": 1563,
+          "tweet_count": 8993
+        },
+        "username": "xiangsaixue520",
+        "verified": false
+      }
+    ]
+  }
+}

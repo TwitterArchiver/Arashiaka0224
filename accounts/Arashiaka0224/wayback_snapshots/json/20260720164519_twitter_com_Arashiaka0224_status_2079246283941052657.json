@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2078719396701495362",
+    "created_at": "2026-07-20T16:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079246283941052657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066519557616111616",
+          "start": 0,
+          "username": "toothpastezo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079246283941052657",
+    "in_reply_to_user_id": "2066519557616111616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078719396701495362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toothpastezo wtf这人账号我看看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_2078719389520822273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkYRXAbAAEUA-3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2078719396701495362",
+        "created_at": "2026-07-20T16:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079246283941052657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066519557616111616",
+              "start": 0,
+              "username": "toothpastezo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079246283941052657",
+        "in_reply_to_user_id": "2066519557616111616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078719396701495362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toothpastezo wtf这人账号我看看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078719389520822273"
+          ]
+        },
+        "author_id": "2066519557616111616",
+        "conversation_id": "2078719396701495362",
+        "created_at": "2026-07-19T05:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078719396701495362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uCv8oyhj1q",
+              "end": 26,
+              "expanded_url": "https://x.com/toothpastezo/status/2078719396701495362/photo/1",
+              "media_key": "3_2078719389520822273",
+              "start": 3,
+              "url": "https://t.co/uCv8oyhj1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078719396701495362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好😭 https://t.co/uCv8oyhj1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 124,
+          "like_count": 75,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T13:57:37.000Z",
+        "description": "🚪88 私信只回zfb口令\n双相2型 强迫症 cptsd\n#shtwt/メヘンラ/互fo互转欢迎🥳/害怕被凶\n过门再聊天、不要浪费彼此时间",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2066519557616111616",
+        "name": "toothpaste",
+        "pinned_tweet_id": "2074172875196752232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066521498995822592/cJfnLEsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 17,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "toothpastezo",
+        "verified": false
+      }
+    ]
+  }
+}

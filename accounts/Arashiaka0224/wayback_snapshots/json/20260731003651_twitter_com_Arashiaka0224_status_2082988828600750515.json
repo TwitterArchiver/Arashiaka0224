@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2080665504117830117",
+    "created_at": "2026-07-31T00:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082988828600750515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1529373912764514304",
+          "start": 0,
+          "username": "AigXiApbPKiX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082988828600750515",
+    "in_reply_to_user_id": "1529373912764514304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080665504117830117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AigXiApbPKiX3 这个除了人在当地还有别的办法搞到吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2080665500372410368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOACP64boAAXfhL.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080665501152477185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOACP9yagAE9boQ.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2080665504117830117",
+        "created_at": "2026-07-31T00:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082988828600750515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1529373912764514304",
+              "start": 0,
+              "username": "AigXiApbPKiX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082988828600750515",
+        "in_reply_to_user_id": "1529373912764514304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080665504117830117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AigXiApbPKiX3 这个除了人在当地还有别的办法搞到吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080665500372410368",
+            "3_2080665501152477185"
+          ]
+        },
+        "author_id": "1529373912764514304",
+        "conversation_id": "2080665504117830117",
+        "created_at": "2026-07-24T14:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080665504117830117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIu3XDmcAW",
+              "end": 30,
+              "expanded_url": "https://x.com/AigXiApbPKiX3/status/2080665504117830117/photo/1",
+              "media_key": "3_2080665500372410368",
+              "start": 7,
+              "url": "https://t.co/kIu3XDmcAW"
+            },
+            {
+              "display_url": "pic.x.com/kIu3XDmcAW",
+              "end": 30,
+              "expanded_url": "https://x.com/AigXiApbPKiX3/status/2080665504117830117/photo/1",
+              "media_key": "3_2080665501152477185",
+              "start": 7,
+              "url": "https://t.co/kIu3XDmcAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080665504117830117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服用一些神药 https://t.co/kIu3XDmcAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 127,
+          "like_count": 88,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T08:08:57.000Z",
+        "description": "Relic / レリック",
+        "id": "1529373912764514304",
+        "location": "广州",
+        "name": "レリック",
+        "pinned_tweet_id": "2025559340971864375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009458384773492736/PjBe_ohx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 784,
+          "like_count": 31836,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1710
+        },
+        "url": "",
+        "username": "AigXiApbPKiX3",
+        "verified": false
+      }
+    ]
+  }
+}

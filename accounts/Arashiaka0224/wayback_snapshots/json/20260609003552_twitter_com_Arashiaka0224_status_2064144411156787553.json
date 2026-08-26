@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2063735771434234268",
+    "created_at": "2026-06-09T00:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T01:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064144411156787553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1668932391526866945",
+          "start": 0,
+          "username": "noboys2k18888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064144411156787553",
+    "in_reply_to_user_id": "1668932391526866945",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064007962495209485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noboys2k18888 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2063735771434234268",
+        "created_at": "2026-06-09T00:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064144411156787553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1668932391526866945",
+              "start": 0,
+              "username": "noboys2k18888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064144411156787553",
+        "in_reply_to_user_id": "1668932391526866945",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064007962495209485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noboys2k18888 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668932391526866945",
+        "conversation_id": "2063735771434234268",
+        "created_at": "2026-06-08T15:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064007962495209485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061085349976432640",
+              "start": 0,
+              "username": "Arashiaka0224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064007962495209485",
+        "in_reply_to_user_id": "2061085349976432640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063735771434234268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arashiaka0224 咋这么萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 80,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T10:44:24.000Z",
+        "description": "我只想平静的生活",
+        "id": "1668932391526866945",
+        "location": "🚪52 ",
+        "name": "Noboys2k18",
+        "pinned_tweet_id": "2064016706880885107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687462018620747776/m7Yui2fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 354,
+          "like_count": 1208,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 1140
+        },
+        "username": "noboys2k18888",
+        "verified": false
+      }
+    ]
+  }
+}

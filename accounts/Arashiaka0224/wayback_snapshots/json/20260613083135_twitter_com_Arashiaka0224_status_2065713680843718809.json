@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065410844389945344"
+      ],
+      "media_source_tweet_id": [
+        "2065410858835202293"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2065713680843718809",
+    "created_at": "2026-06-13T08:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065713680843718809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3334042759",
+          "start": 3,
+          "username": "revol4357"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TWFSa8idOg",
+          "end": 38,
+          "expanded_url": "https://x.com/revol4357/status/2065410858835202293/photo/1",
+          "media_key": "3_2065410844389945344",
+          "start": 15,
+          "url": "https://t.co/TWFSa8idOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065713680843718809",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2886
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065410858835202293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @revol4357: https://t.co/TWFSa8idOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_2065410844389945344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnQOE8aMAAlxCT.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065410844389945344"
+          ],
+          "media_source_tweet_id": [
+            "2065410858835202293"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2065713680843718809",
+        "created_at": "2026-06-13T08:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065713680843718809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3334042759",
+              "start": 3,
+              "username": "revol4357"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWFSa8idOg",
+              "end": 38,
+              "expanded_url": "https://x.com/revol4357/status/2065410858835202293/photo/1",
+              "media_key": "3_2065410844389945344",
+              "start": 15,
+              "url": "https://t.co/TWFSa8idOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065713680843718809",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2886
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065410858835202293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @revol4357: https://t.co/TWFSa8idOg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065410844389945344"
+          ]
+        },
+        "author_id": "3334042759",
+        "conversation_id": "2065410858835202293",
+        "created_at": "2026-06-12T12:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065410858835202293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWFSa8idOg",
+              "end": 23,
+              "expanded_url": "https://x.com/revol4357/status/2065410858835202293/photo/1",
+              "media_key": "3_2065410844389945344",
+              "start": 0,
+              "url": "https://t.co/TWFSa8idOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065410858835202293",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1670,
+          "impression_count": 169361,
+          "like_count": 23237,
+          "quote_count": 22,
+          "reply_count": 10,
+          "retweet_count": 2886
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TWFSa8idOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 96,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-25T05:22:06.000Z",
+        "description": "=revol/Original artworks/中文,Eng,少し日本語&lernen Deutsch/創作sketches→@rev404_ /ins:revol404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "rev404_"
+              }
+            ]
+          }
+        },
+        "id": "3334042759",
+        "location": "🚫无授权转载🚫AI",
+        "name": ".",
+        "pinned_tweet_id": "1791842274768539826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564710107107053569/vsidR1i__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149494,
+          "following_count": 581,
+          "like_count": 5499,
+          "listed_count": 795,
+          "media_count": 1093,
+          "tweet_count": 1995
+        },
+        "username": "revol4357",
+        "verified": false
+      }
+    ]
+  }
+}

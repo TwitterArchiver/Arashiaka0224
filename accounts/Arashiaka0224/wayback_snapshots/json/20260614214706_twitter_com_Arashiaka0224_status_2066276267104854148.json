@@ -1,0 +1,705 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066079578712657920",
+        "3_2066079578721062912",
+        "3_2066079578712588288",
+        "3_2066079578729451520"
+      ],
+      "media_source_tweet_id": [
+        "2066079597482168490",
+        "2066079597482168490",
+        "2066079597482168490",
+        "2066079597482168490"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jungkook (정국) - member of BTS",
+          "id": "895369861504749568",
+          "name": "Jungkook"
+        }
+      }
+    ],
+    "conversation_id": "2066276267104854148",
+    "created_at": "2026-06-14T21:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T22:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066276267104854148"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "jk"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "半绿"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "初夜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904472758152740864",
+          "start": 3,
+          "username": "5irsf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lFR8Cf2MEG",
+          "end": 76,
+          "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+          "media_key": "3_2066079578712657920",
+          "start": 53,
+          "url": "https://t.co/lFR8Cf2MEG"
+        },
+        {
+          "display_url": "pic.x.com/lFR8Cf2MEG",
+          "end": 76,
+          "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+          "media_key": "3_2066079578721062912",
+          "start": 53,
+          "url": "https://t.co/lFR8Cf2MEG"
+        },
+        {
+          "display_url": "pic.x.com/lFR8Cf2MEG",
+          "end": 76,
+          "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+          "media_key": "3_2066079578712588288",
+          "start": 53,
+          "url": "https://t.co/lFR8Cf2MEG"
+        },
+        {
+          "display_url": "pic.x.com/lFR8Cf2MEG",
+          "end": 76,
+          "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+          "media_key": "3_2066079578729451520",
+          "start": 53,
+          "url": "https://t.co/lFR8Cf2MEG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066276267104854148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066079597482168490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5irsf: 等待一个好心人投喂🐈‍⬛ 女孩们可以找我互转互关 #爸爸活 #jk #半绿 #初夜 https://t.co/lFR8Cf2MEG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2066079578712657920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwwbibbUAAFyWt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2066079578721062912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwwbidbkAAO7Lo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066079578712588288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwwbibaQAA3F1s.jpg",
+        "width": 1537
+      },
+      {
+        "height": 757,
+        "media_key": "3_2066079578729451520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwwbifbkAAPKmQ.jpg",
+        "width": 1087
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066079578712657920",
+            "3_2066079578721062912",
+            "3_2066079578712588288",
+            "3_2066079578729451520"
+          ],
+          "media_source_tweet_id": [
+            "2066079597482168490",
+            "2066079597482168490",
+            "2066079597482168490",
+            "2066079597482168490"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2066276267104854148",
+        "created_at": "2026-06-14T21:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066276267104854148"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "jk"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "半绿"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "初夜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904472758152740864",
+              "start": 3,
+              "username": "5irsf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFR8Cf2MEG",
+              "end": 76,
+              "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+              "media_key": "3_2066079578712657920",
+              "start": 53,
+              "url": "https://t.co/lFR8Cf2MEG"
+            },
+            {
+              "display_url": "pic.x.com/lFR8Cf2MEG",
+              "end": 76,
+              "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+              "media_key": "3_2066079578721062912",
+              "start": 53,
+              "url": "https://t.co/lFR8Cf2MEG"
+            },
+            {
+              "display_url": "pic.x.com/lFR8Cf2MEG",
+              "end": 76,
+              "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+              "media_key": "3_2066079578712588288",
+              "start": 53,
+              "url": "https://t.co/lFR8Cf2MEG"
+            },
+            {
+              "display_url": "pic.x.com/lFR8Cf2MEG",
+              "end": 76,
+              "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+              "media_key": "3_2066079578729451520",
+              "start": 53,
+              "url": "https://t.co/lFR8Cf2MEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066276267104854148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066079597482168490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5irsf: 等待一个好心人投喂🐈‍⬛ 女孩们可以找我互转互关 #爸爸活 #jk #半绿 #初夜 https://t.co/lFR8Cf2MEG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066079578712657920",
+            "3_2066079578721062912",
+            "3_2066079578712588288",
+            "3_2066079578729451520"
+          ]
+        },
+        "author_id": "1904472758152740864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2066079597482168490",
+        "created_at": "2026-06-14T08:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066079597482168490"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "jk"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "半绿"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "初夜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFR8Cf2MEG",
+              "end": 65,
+              "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+              "media_key": "3_2066079578712657920",
+              "start": 42,
+              "url": "https://t.co/lFR8Cf2MEG"
+            },
+            {
+              "display_url": "pic.x.com/lFR8Cf2MEG",
+              "end": 65,
+              "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+              "media_key": "3_2066079578721062912",
+              "start": 42,
+              "url": "https://t.co/lFR8Cf2MEG"
+            },
+            {
+              "display_url": "pic.x.com/lFR8Cf2MEG",
+              "end": 65,
+              "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+              "media_key": "3_2066079578712588288",
+              "start": 42,
+              "url": "https://t.co/lFR8Cf2MEG"
+            },
+            {
+              "display_url": "pic.x.com/lFR8Cf2MEG",
+              "end": 65,
+              "expanded_url": "https://x.com/5irsf/status/2066079597482168490/photo/1",
+              "media_key": "3_2066079578729451520",
+              "start": 42,
+              "url": "https://t.co/lFR8Cf2MEG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066079597482168490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "等待一个好心人投喂🐈‍⬛ 女孩们可以找我互转互关 #爸爸活 #jk #半绿 #初夜 https://t.co/lFR8Cf2MEG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 100,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T09:57:52.000Z",
+        "description": "🚪166 288 520 小号@1ky4zx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "1ky4zx"
+              }
+            ]
+          }
+        },
+        "id": "1904472758152740864",
+        "location": "👽09",
+        "name": "噩噩梦⁡⁢⁡⁡⁢⁡⁡⁢ ⁡⁢⁢⁠ ⁡⁢⁢⁠ ⁡⁢⁢⁠ ⁡⁢⁢⁠ ⁡⁢⁢⁠ ⁡⁢⁡⁡⁢⁡⁡⁢⁡⁡⁢ ⁡",
+        "pinned_tweet_id": "2066079597482168490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007797441559678976/Q2B3p--Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 13,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "username": "5irsf",
+        "verified": false
+      }
+    ]
+  }
+}

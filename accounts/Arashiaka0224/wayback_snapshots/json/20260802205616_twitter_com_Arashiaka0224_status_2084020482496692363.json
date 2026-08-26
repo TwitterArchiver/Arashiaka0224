@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2083817757905137699",
+    "created_at": "2026-08-02T20:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084020482496692363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Jack114514233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084020482496692363",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083817757905137699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack114514233 各方面 除了不宁腿综合征 那我宁愿吃喹硫平真的太难受了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2083817750057963520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs1NADb0AAUER2.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2083817757905137699",
+        "created_at": "2026-08-02T20:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084020482496692363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Jack114514233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084020482496692363",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083817757905137699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack114514233 各方面 除了不宁腿综合征 那我宁愿吃喹硫平真的太难受了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083817750057963520"
+          ]
+        },
+        "author_id": "1916974498903166978",
+        "conversation_id": "2083817757905137699",
+        "created_at": "2026-08-02T07:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083817757905137699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "鲁拉西酮（英文名 Lurasidone，商品名罗舒达/Latuda等）是一种新型非典型（第二代）抗精神病药物。 作用机制 拮抗受体：5-HT₂A、5-HT₇、多巴胺D₂、中枢 α₂ 肾上腺素受体（主要是α2C亚型） 中效拮抗：多巴胺D₃ 弱效拮抗：α₁ 肾上腺受体 部分激动：5-HT₁A 激活因子：BDNF 用法用量（中国成人精神分裂症参考） 口服，必须与食物同服（至少350千卡热量），以显著提...",
+              "display_url": "jile.bid/post-1550.html",
+              "end": 32,
+              "expanded_url": "https://jile.bid/post-1550.html",
+              "start": 9,
+              "status": 200,
+              "title": "鲁拉西酮",
+              "unwound_url": "https://jile.bid/post-1550.html",
+              "url": "https://t.co/LjWcweViw4"
+            },
+            {
+              "display_url": "pic.x.com/Gt649tZggU",
+              "end": 56,
+              "expanded_url": "https://x.com/Sakura8964666/status/2083817757905137699/photo/1",
+              "media_key": "3_2083817750057963520",
+              "start": 33,
+              "url": "https://t.co/Gt649tZggU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083817757905137699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 927,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得比喹硫平强\nhttps://t.co/LjWcweViw4 https://t.co/Gt649tZggU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 134,
+          "like_count": 106,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n精神药物科普：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Jack",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 807,
+          "like_count": 613,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Jack114514233",
+        "verified": false
+      }
+    ]
+  }
+}

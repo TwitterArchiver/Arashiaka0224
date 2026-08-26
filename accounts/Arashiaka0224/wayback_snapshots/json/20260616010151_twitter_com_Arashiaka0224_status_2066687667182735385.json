@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066444438310989825",
+        "3_2066444461878792193",
+        "3_2066444494246125568"
+      ],
+      "media_source_tweet_id": [
+        "2066445334151377025",
+        "2066445334151377025",
+        "2066445334151377025"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2066687667182735385",
+    "created_at": "2026-06-16T01:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066687667182735385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1844038996483354624",
+          "start": 3,
+          "username": "kino520kino"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GEXOkOa19c",
+          "end": 81,
+          "expanded_url": "https://x.com/kino520kino/status/2066445334151377025/photo/1",
+          "media_key": "3_2066444438310989825",
+          "start": 58,
+          "url": "https://t.co/GEXOkOa19c"
+        },
+        {
+          "display_url": "pic.x.com/GEXOkOa19c",
+          "end": 81,
+          "expanded_url": "https://x.com/kino520kino/status/2066445334151377025/photo/1",
+          "media_key": "3_2066444461878792193",
+          "start": 58,
+          "url": "https://t.co/GEXOkOa19c"
+        },
+        {
+          "display_url": "pic.x.com/GEXOkOa19c",
+          "end": 81,
+          "expanded_url": "https://x.com/kino520kino/status/2066445334151377025/photo/1",
+          "media_key": "3_2066444494246125568",
+          "start": 58,
+          "url": "https://t.co/GEXOkOa19c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066687667182735385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066445334151377025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @kino520kino: 我是KINO\n 喜欢我请过🚪\n坐标南京\n🚪188/288/520\n线下过🚪咨询哦 https://t.co/GEXOkOa19c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_2066444438310989825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK18RKWbsAE6new.jpg",
+        "width": 574
+      },
+      {
+        "height": 848,
+        "media_key": "3_2066444461878792193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK18SiJb0AEmYHo.jpg",
+        "width": 574
+      },
+      {
+        "height": 781,
+        "media_key": "3_2066444494246125568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK18UauaIAAeV83.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066444438310989825",
+            "3_2066444461878792193",
+            "3_2066444494246125568"
+          ],
+          "media_source_tweet_id": [
+            "2066445334151377025",
+            "2066445334151377025",
+            "2066445334151377025"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2066687667182735385",
+        "created_at": "2026-06-16T01:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066687667182735385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1844038996483354624",
+              "start": 3,
+              "username": "kino520kino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEXOkOa19c",
+              "end": 81,
+              "expanded_url": "https://x.com/kino520kino/status/2066445334151377025/photo/1",
+              "media_key": "3_2066444438310989825",
+              "start": 58,
+              "url": "https://t.co/GEXOkOa19c"
+            },
+            {
+              "display_url": "pic.x.com/GEXOkOa19c",
+              "end": 81,
+              "expanded_url": "https://x.com/kino520kino/status/2066445334151377025/photo/1",
+              "media_key": "3_2066444461878792193",
+              "start": 58,
+              "url": "https://t.co/GEXOkOa19c"
+            },
+            {
+              "display_url": "pic.x.com/GEXOkOa19c",
+              "end": 81,
+              "expanded_url": "https://x.com/kino520kino/status/2066445334151377025/photo/1",
+              "media_key": "3_2066444494246125568",
+              "start": 58,
+              "url": "https://t.co/GEXOkOa19c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066687667182735385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066445334151377025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @kino520kino: 我是KINO\n 喜欢我请过🚪\n坐标南京\n🚪188/288/520\n线下过🚪咨询哦 https://t.co/GEXOkOa19c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066444438310989825",
+            "3_2066444461878792193",
+            "3_2066444494246125568"
+          ]
+        },
+        "author_id": "1844038996483354624",
+        "conversation_id": "2066445334151377025",
+        "created_at": "2026-06-15T08:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066445334151377025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEXOkOa19c",
+              "end": 64,
+              "expanded_url": "https://x.com/kino520kino/status/2066445334151377025/photo/1",
+              "media_key": "3_2066444438310989825",
+              "start": 41,
+              "url": "https://t.co/GEXOkOa19c"
+            },
+            {
+              "display_url": "pic.x.com/GEXOkOa19c",
+              "end": 64,
+              "expanded_url": "https://x.com/kino520kino/status/2066445334151377025/photo/1",
+              "media_key": "3_2066444461878792193",
+              "start": 41,
+              "url": "https://t.co/GEXOkOa19c"
+            },
+            {
+              "display_url": "pic.x.com/GEXOkOa19c",
+              "end": 64,
+              "expanded_url": "https://x.com/kino520kino/status/2066445334151377025/photo/1",
+              "media_key": "3_2066444494246125568",
+              "start": 41,
+              "url": "https://t.co/GEXOkOa19c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066445334151377025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我是KINO\n 喜欢我请过🚪\n坐标南京\n🚪188/288/520\n线下过🚪咨询哦 https://t.co/GEXOkOa19c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 104,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T15:35:50.000Z",
+        "description": "",
+        "id": "1844038996483354624",
+        "location": "南京",
+        "name": "kino",
+        "pinned_tweet_id": "2066445334151377025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849379772461154304/BRdF-Ino_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 10,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 229
+        },
+        "username": "kino520kino",
+        "verified": false
+      }
+    ]
+  }
+}

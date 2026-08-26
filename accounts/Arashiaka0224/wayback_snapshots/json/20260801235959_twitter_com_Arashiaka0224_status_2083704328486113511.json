@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083221970133667840"
+      ],
+      "media_source_tweet_id": [
+        "2083221978169946472"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2083704328486113511",
+    "created_at": "2026-08-01T23:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T00:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083704328486113511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w6LCRGKTxr",
+          "end": 75,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2083221978169946472/photo/1",
+          "media_key": "3_2083221970133667840",
+          "start": 52,
+          "url": "https://t.co/w6LCRGKTxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083704328486113511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083221978169946472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 会员制餐厅用的屎原来是假的吗……\n某种意义上这是否也算塌房呢😭 https://t.co/w6LCRGKTxr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2083221970133667840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkXWC4bUAAf2Qd.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083221970133667840"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2083221978169946472",
+        "created_at": "2026-07-31T16:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083221978169946472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6LCRGKTxr",
+              "end": 55,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2083221978169946472/photo/1",
+              "media_key": "3_2083221970133667840",
+              "start": 32,
+              "url": "https://t.co/w6LCRGKTxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083221978169946472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 366,
+          "impression_count": 354304,
+          "like_count": 2270,
+          "quote_count": 14,
+          "reply_count": 263,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "会员制餐厅用的屎原来是假的吗……\n某种意义上这是否也算塌房呢😭 https://t.co/w6LCRGKTxr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083221970133667840"
+          ],
+          "media_source_tweet_id": [
+            "2083221978169946472"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2083704328486113511",
+        "created_at": "2026-08-01T23:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083704328486113511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6LCRGKTxr",
+              "end": 75,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2083221978169946472/photo/1",
+              "media_key": "3_2083221970133667840",
+              "start": 52,
+              "url": "https://t.co/w6LCRGKTxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083704328486113511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083221978169946472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 会员制餐厅用的屎原来是假的吗……\n某种意义上这是否也算塌房呢😭 https://t.co/w6LCRGKTxr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 128,
+          "like_count": 96,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12778,
+          "following_count": 879,
+          "like_count": 32294,
+          "listed_count": 22,
+          "media_count": 2377,
+          "tweet_count": 11409
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

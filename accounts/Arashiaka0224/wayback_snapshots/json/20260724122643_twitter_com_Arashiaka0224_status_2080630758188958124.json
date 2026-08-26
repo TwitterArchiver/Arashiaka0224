@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080628578342072320",
+        "3_2080628578350452736",
+        "3_2080628578342055937",
+        "3_2080628578358861825"
+      ],
+      "media_source_tweet_id": [
+        "2080628591134728616",
+        "2080628591134728616",
+        "2080628591134728616",
+        "2080628591134728616"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2080630758188958124",
+    "created_at": "2026-07-24T12:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080630758188958124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1773390004666130432",
+          "start": 3,
+          "username": "peaceful1chaos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BgSeALS2oI",
+          "end": 74,
+          "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+          "media_key": "3_2080628578342072320",
+          "start": 51,
+          "url": "https://t.co/BgSeALS2oI"
+        },
+        {
+          "display_url": "pic.x.com/BgSeALS2oI",
+          "end": 74,
+          "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+          "media_key": "3_2080628578350452736",
+          "start": 51,
+          "url": "https://t.co/BgSeALS2oI"
+        },
+        {
+          "display_url": "pic.x.com/BgSeALS2oI",
+          "end": 74,
+          "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+          "media_key": "3_2080628578342055937",
+          "start": 51,
+          "url": "https://t.co/BgSeALS2oI"
+        },
+        {
+          "display_url": "pic.x.com/BgSeALS2oI",
+          "end": 74,
+          "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+          "media_key": "3_2080628578358861825",
+          "start": 51,
+          "url": "https://t.co/BgSeALS2oI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080630758188958124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080628591134728616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @peaceful1chaos: 欢迎大家来互fo\n我是小瞳很高兴认识你们！\n转发抽3个50🧧 https://t.co/BgSeALS2oI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2080628578342072320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_gqxma8AAU1Ss.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080628578350452736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_gqxoa0AAFM_5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2080628578342055937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_gqxmasAEC2AL.jpg",
+        "width": 950
+      },
+      {
+        "height": 975,
+        "media_key": "3_2080628578358861825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_gqxqbIAEyYZY.jpg",
+        "width": 975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080628578342072320",
+            "3_2080628578350452736",
+            "3_2080628578342055937",
+            "3_2080628578358861825"
+          ]
+        },
+        "author_id": "1773390004666130432",
+        "conversation_id": "2080628591134728616",
+        "created_at": "2026-07-24T12:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080628591134728616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgSeALS2oI",
+              "end": 54,
+              "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+              "media_key": "3_2080628578342072320",
+              "start": 31,
+              "url": "https://t.co/BgSeALS2oI"
+            },
+            {
+              "display_url": "pic.x.com/BgSeALS2oI",
+              "end": 54,
+              "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+              "media_key": "3_2080628578350452736",
+              "start": 31,
+              "url": "https://t.co/BgSeALS2oI"
+            },
+            {
+              "display_url": "pic.x.com/BgSeALS2oI",
+              "end": 54,
+              "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+              "media_key": "3_2080628578342055937",
+              "start": 31,
+              "url": "https://t.co/BgSeALS2oI"
+            },
+            {
+              "display_url": "pic.x.com/BgSeALS2oI",
+              "end": 54,
+              "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+              "media_key": "3_2080628578358861825",
+              "start": 31,
+              "url": "https://t.co/BgSeALS2oI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080628591134728616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎大家来互fo\n我是小瞳很高兴认识你们！\n转发抽3个50🧧 https://t.co/BgSeALS2oI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080628578342072320",
+            "3_2080628578350452736",
+            "3_2080628578342055937",
+            "3_2080628578358861825"
+          ],
+          "media_source_tweet_id": [
+            "2080628591134728616",
+            "2080628591134728616",
+            "2080628591134728616",
+            "2080628591134728616"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2080630758188958124",
+        "created_at": "2026-07-24T12:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080630758188958124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1773390004666130432",
+              "start": 3,
+              "username": "peaceful1chaos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgSeALS2oI",
+              "end": 74,
+              "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+              "media_key": "3_2080628578342072320",
+              "start": 51,
+              "url": "https://t.co/BgSeALS2oI"
+            },
+            {
+              "display_url": "pic.x.com/BgSeALS2oI",
+              "end": 74,
+              "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+              "media_key": "3_2080628578350452736",
+              "start": 51,
+              "url": "https://t.co/BgSeALS2oI"
+            },
+            {
+              "display_url": "pic.x.com/BgSeALS2oI",
+              "end": 74,
+              "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+              "media_key": "3_2080628578342055937",
+              "start": 51,
+              "url": "https://t.co/BgSeALS2oI"
+            },
+            {
+              "display_url": "pic.x.com/BgSeALS2oI",
+              "end": 74,
+              "expanded_url": "https://x.com/peaceful1chaos/status/2080628591134728616/photo/1",
+              "media_key": "3_2080628578358861825",
+              "start": 51,
+              "url": "https://t.co/BgSeALS2oI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080630758188958124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080628591134728616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @peaceful1chaos: 欢迎大家来互fo\n我是小瞳很高兴认识你们！\n转发抽3个50🧧 https://t.co/BgSeALS2oI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 128,
+          "like_count": 80,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T16:42:01.000Z",
+        "description": "vx好友位\n🚪88（不开放朋友圈\n🚪188（开放朋友圈\n解锁无限畅聊🚪488",
+        "id": "1773390004666130432",
+        "name": "eyeholes",
+        "pinned_tweet_id": "2080628591134728616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080608514825957376/DUmrMxGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 19,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "peaceful1chaos",
+        "verified": false
+      }
+    ]
+  }
+}

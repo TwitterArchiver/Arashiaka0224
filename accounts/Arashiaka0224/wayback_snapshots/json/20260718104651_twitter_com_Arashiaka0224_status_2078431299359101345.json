@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2078431299359101345",
+    "created_at": "2026-07-18T10:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078431299359101345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/arashi_100224",
+          "end": 45,
+          "expanded_url": "https://ngl.link/arashi_100224",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2038634873267867649/852I4vbT?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2038634873267867649/852I4vbT?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 22,
+          "status": 200,
+          "title": "@arashi_100224: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/arashi_100224",
+          "url": "https://t.co/5rMJs3aTd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078431299359101345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发一个匿名邮箱 有药物问题或者别的都可以问\nhttps://t.co/5rMJs3aTd6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2078431299359101345",
+        "created_at": "2026-07-18T10:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078431299359101345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/arashi_100224",
+              "end": 45,
+              "expanded_url": "https://ngl.link/arashi_100224",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2038634873267867649/852I4vbT?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038634873267867649/852I4vbT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 22,
+              "status": 200,
+              "title": "@arashi_100224: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/arashi_100224",
+              "url": "https://t.co/5rMJs3aTd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078431299359101345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发一个匿名邮箱 有药物问题或者别的都可以问\nhttps://t.co/5rMJs3aTd6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 119,
+          "like_count": 65,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      }
+    ]
+  }
+}

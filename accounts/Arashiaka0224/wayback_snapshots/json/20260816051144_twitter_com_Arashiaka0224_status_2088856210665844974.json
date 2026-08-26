@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088567024045973504"
+      ],
+      "media_source_tweet_id": [
+        "2088567040537919504"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2088856210665844974",
+    "created_at": "2026-08-16T05:11:44.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088856210665844974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2068112919305543680",
+          "start": 3,
+          "username": "caffeinebiglove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jUolO0WuSq",
+          "end": 44,
+          "expanded_url": "https://x.com/caffeinebiglove/status/2088567040537919504/photo/1",
+          "media_key": "3_2088567024045973504",
+          "start": 21,
+          "url": "https://t.co/jUolO0WuSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088856210665844974",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088567024045973504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 988
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088567040537919504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caffeinebiglove: https://t.co/jUolO0WuSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2088567024045973504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwUpIXa4AAVRfv.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088567024045973504"
+          ],
+          "media_source_tweet_id": [
+            "2088567040537919504"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2088856210665844974",
+        "created_at": "2026-08-16T05:11:44.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088856210665844974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2068112919305543680",
+              "start": 3,
+              "username": "caffeinebiglove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUolO0WuSq",
+              "end": 44,
+              "expanded_url": "https://x.com/caffeinebiglove/status/2088567040537919504/photo/1",
+              "media_key": "3_2088567024045973504",
+              "start": 21,
+              "url": "https://t.co/jUolO0WuSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088856210665844974",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088567024045973504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 988
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088567040537919504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caffeinebiglove: https://t.co/jUolO0WuSq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088567024045973504"
+          ]
+        },
+        "author_id": "2068112919305543680",
+        "conversation_id": "2088567040537919504",
+        "created_at": "2026-08-15T10:02:40.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088567040537919504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUolO0WuSq",
+              "end": 23,
+              "expanded_url": "https://x.com/caffeinebiglove/status/2088567040537919504/photo/1",
+              "media_key": "3_2088567024045973504",
+              "start": 0,
+              "url": "https://t.co/jUolO0WuSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088567040537919504",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088567024045973504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 37611,
+          "like_count": 5941,
+          "quote_count": 13,
+          "reply_count": 8,
+          "retweet_count": 988
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jUolO0WuSq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2088856210665844974",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1784380464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 182,
+          "like_count": 200,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-19T23:49:33.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@caffeinebiglo…",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@caffeinebiglove",
+                "start": 0,
+                "url": "https://t.co/lNJJdZgAww"
+              }
+            ]
+          }
+        },
+        "id": "2068112919305543680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088567040537919504",
+        "name": "あかい強炭酸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068112919305543680/1782334798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069888279349239808/woUSNGKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 55,
+          "like_count": 597,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/lNJJdZgAww",
+        "username": "caffeinebiglove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

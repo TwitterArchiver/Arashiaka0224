@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062426520216641536"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2062426538403041611",
+    "created_at": "2026-06-04T06:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T07:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062426538403041611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1oAuTIWQUm",
+          "end": 25,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2062426538403041611/photo/1",
+          "media_key": "3_2062426520216641536",
+          "start": 2,
+          "url": "https://t.co/1oAuTIWQUm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062426538403041611",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "💗 https://t.co/1oAuTIWQUm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062426520216641536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ81_jDboAA6yDB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062426520216641536"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2062426538403041611",
+        "created_at": "2026-06-04T06:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062426538403041611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1oAuTIWQUm",
+              "end": 25,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2062426538403041611/photo/1",
+              "media_key": "3_2062426520216641536",
+              "start": 2,
+              "url": "https://t.co/1oAuTIWQUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062426538403041611",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💗 https://t.co/1oAuTIWQUm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "",
+        "id": "2061085349976432640",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 52,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "Arashiaka0224",
+        "verified": false
+      }
+    ]
+  }
+}

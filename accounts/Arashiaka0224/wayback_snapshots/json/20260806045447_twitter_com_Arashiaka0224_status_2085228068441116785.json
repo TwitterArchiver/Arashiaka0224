@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2085021361467191368",
+    "created_at": "2026-08-06T04:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085228068441116785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009620713460887553",
+          "start": 0,
+          "username": "HujiaoFen_sad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085228068441116785",
+    "in_reply_to_user_id": "2009620713460887553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085021361467191368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HujiaoFen_sad 你他妈咋跟我一样抄袭我还说我是猪逼😹小乐乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085021358753480707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO974P2agAMH7Kw.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2085021361467191368",
+        "created_at": "2026-08-06T04:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085228068441116785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009620713460887553",
+              "start": 0,
+              "username": "HujiaoFen_sad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085228068441116785",
+        "in_reply_to_user_id": "2009620713460887553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085021361467191368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HujiaoFen_sad 你他妈咋跟我一样抄袭我还说我是猪逼😹小乐乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085021358753480707"
+          ]
+        },
+        "author_id": "2009620713460887553",
+        "conversation_id": "2085021361467191368",
+        "created_at": "2026-08-05T15:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085021361467191368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWhFUVhZJu",
+              "end": 23,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2085021361467191368/photo/1",
+              "media_key": "3_2085021358753480707",
+              "start": 0,
+              "url": "https://t.co/PWhFUVhZJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085021361467191368",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PWhFUVhZJu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 148,
+          "like_count": 117,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "拉吉塔尼的鹦鹉会笑/双相患者/一个温柔善良的人/我会对所有无恶意的人保持友好/🚪88纯绿",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "死んだ僕の彼女",
+        "pinned_tweet_id": "2074518375217447038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084117245496811520/WIBr7y-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 254,
+          "like_count": 435,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 845
+        },
+        "url": "",
+        "username": "HujiaoFen_sad",
+        "verified": false
+      }
+    ]
+  }
+}

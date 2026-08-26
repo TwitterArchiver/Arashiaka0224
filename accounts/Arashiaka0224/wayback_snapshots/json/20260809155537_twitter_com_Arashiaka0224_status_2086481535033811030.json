@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2086353927537389866",
+    "created_at": "2026-08-09T15:55:37.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T16:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086481535033811030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086481535033811030",
+    "in_reply_to_user_id": "2061085349976432640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086353927537389866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝其实我这是o多了高p😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086353913742340096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQ31KBbsAAW2yq.jpg",
+        "width": 1380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2086353927537389866",
+        "created_at": "2026-08-09T15:55:37.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086481535033811030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086481535033811030",
+        "in_reply_to_user_id": "2061085349976432640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086353927537389866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝其实我这是o多了高p😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086353913742340096"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2086353927537389866",
+        "created_at": "2026-08-09T07:28:33.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086353927537389866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o38ZOCdXiL",
+              "end": 54,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2086353927537389866/photo/1",
+              "media_key": "3_2086353913742340096",
+              "start": 31,
+              "url": "https://t.co/o38ZOCdXiL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086353927537389866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086353913742340096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽166+10cm鞋跟+大骨架为什么拍出来还能这么玲珑小巧 https://t.co/o38ZOCdXiL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2086481535033811030",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1784380464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 167,
+          "like_count": 143,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

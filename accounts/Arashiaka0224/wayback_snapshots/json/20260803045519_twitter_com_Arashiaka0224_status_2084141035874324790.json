@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084141026973995008",
+        "3_2084141027020222464"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2084141035874324790",
+    "created_at": "2026-08-03T04:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084141035874324790"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "女高"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OjMtpUZpDT",
+          "end": 48,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2084141035874324790/photo/1",
+          "media_key": "3_2084141026973995008",
+          "start": 25,
+          "url": "https://t.co/OjMtpUZpDT"
+        },
+        {
+          "display_url": "pic.x.com/OjMtpUZpDT",
+          "end": 48,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2084141035874324790/photo/1",
+          "media_key": "3_2084141027020222464",
+          "start": 25,
+          "url": "https://t.co/OjMtpUZpDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084141035874324790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发点福利 吃不起饭了😭#爸爸活 #门槛妹 #女高 https://t.co/OjMtpUZpDT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084141026973995008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxbOMaaUAAGzvk.jpg",
+        "width": 1481
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084141027020222464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxbOMlbsAAxA42.jpg",
+        "width": 1505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084141026973995008",
+            "3_2084141027020222464"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2084141035874324790",
+        "created_at": "2026-08-03T04:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084141035874324790"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "女高"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjMtpUZpDT",
+              "end": 48,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2084141035874324790/photo/1",
+              "media_key": "3_2084141026973995008",
+              "start": 25,
+              "url": "https://t.co/OjMtpUZpDT"
+            },
+            {
+              "display_url": "pic.x.com/OjMtpUZpDT",
+              "end": 48,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2084141035874324790/photo/1",
+              "media_key": "3_2084141027020222464",
+              "start": 25,
+              "url": "https://t.co/OjMtpUZpDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084141035874324790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发点福利 吃不起饭了😭#爸爸活 #门槛妹 #女高 https://t.co/OjMtpUZpDT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 137,
+          "like_count": 107,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2064782660162257046",
+    "created_at": "2026-06-10T18:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T19:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064782660162257046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1973965773472477184",
+          "start": 3,
+          "username": "wu830761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064782660162257046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064639912201318841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wu830761: 过了你的门槛之后天天看你朋友圈，我都要阳痿了。你都没有贴吧上的假🐔质量高。人家过门槛不是擦边就是发doi视频 好你个雾中冰啊 你今天不是地狱黑 就是宣泄负面情绪 要不就是搞抽象 你朋友圈比孙笑川吧都精彩。入个🚪什么都没有。那合着入你的门干什么。你除了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2064782660162257046",
+        "created_at": "2026-06-10T18:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064782660162257046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1973965773472477184",
+              "start": 3,
+              "username": "wu830761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064782660162257046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064639912201318841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wu830761: 过了你的门槛之后天天看你朋友圈，我都要阳痿了。你都没有贴吧上的假🐔质量高。人家过门槛不是擦边就是发doi视频 好你个雾中冰啊 你今天不是地狱黑 就是宣泄负面情绪 要不就是搞抽象 你朋友圈比孙笑川吧都精彩。入个🚪什么都没有。那合着入你的门干什么。你除了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973965773472477184",
+        "conversation_id": "2064639912201318841",
+        "created_at": "2026-06-10T09:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064639912201318841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064639912201318841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5732,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "过了你的门槛之后天天看你朋友圈，我都要阳痿了。你都没有贴吧上的假🐔质量高。人家过门槛不是擦边就是发doi视频 好你个雾中冰啊 你今天不是地狱黑 就是宣泄负面情绪 要不就是搞抽象 你朋友圈比孙笑川吧都精彩。入个🚪什么都没有。那合着入你的门干什么。你除了宣传点负面情绪。还能干嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 88,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T04:18:19.000Z",
+        "description": "",
+        "id": "1973965773472477184",
+        "location": "🚪518vx/1314tg/5180/13140",
+        "name": "东京躁郁王",
+        "pinned_tweet_id": "2050276758596010089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050491296318738432/gntmdBxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2964,
+          "following_count": 11,
+          "like_count": 132,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 691
+        },
+        "username": "wu830761",
+        "verified": true
+      }
+    ]
+  }
+}

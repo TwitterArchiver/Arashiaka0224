@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2082802751764070790",
+    "created_at": "2026-07-30T21:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T22:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082943403302780981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1773390004666130432",
+          "start": 0,
+          "username": "peaceful1chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082943403302780981",
+    "in_reply_to_user_id": "1773390004666130432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082802751764070790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peaceful1chaos 你发裸照打个敏感就没事了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082802739432824832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeaDm0aoAAcrNG.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2082802751764070790",
+        "created_at": "2026-07-30T21:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082943403302780981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1773390004666130432",
+              "start": 0,
+              "username": "peaceful1chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082943403302780981",
+        "in_reply_to_user_id": "1773390004666130432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082802751764070790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peaceful1chaos 你发裸照打个敏感就没事了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082802739432824832"
+          ]
+        },
+        "author_id": "1773390004666130432",
+        "conversation_id": "2082802751764070790",
+        "created_at": "2026-07-30T12:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082802751764070790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vL2kuW1o22",
+              "end": 32,
+              "expanded_url": "https://x.com/peaceful1chaos/status/2082802751764070790/photo/1",
+              "media_key": "3_2082802739432824832",
+              "start": 9,
+              "url": "https://t.co/vL2kuW1o22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082802751764070790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在被封谢谢 https://t.co/vL2kuW1o22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 125,
+          "like_count": 88,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T16:42:01.000Z",
+        "description": "vx🚪188\n解锁无限畅聊🚪388",
+        "id": "1773390004666130432",
+        "name": "eyeholes",
+        "pinned_tweet_id": "2081589910331654273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080608514825957376/DUmrMxGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 34,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "peaceful1chaos",
+        "verified": false
+      }
+    ]
+  }
+}

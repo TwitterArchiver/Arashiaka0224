@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2085302679811862771",
+    "created_at": "2026-08-06T14:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085365563107471571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2009620713460887553",
+          "start": 0,
+          "username": "HujiaoFen_sad"
+        },
+        {
+          "end": 30,
+          "id": "1857167754588991489",
+          "start": 15,
+          "username": "Ninetta1749974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085365563107471571",
+    "in_reply_to_user_id": "2009620713460887553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085308903512998145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HujiaoFen_sad @Ninetta1749974 这盗的谁的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2085302679811862771",
+        "created_at": "2026-08-06T14:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085365563107471571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2009620713460887553",
+              "start": 0,
+              "username": "HujiaoFen_sad"
+            },
+            {
+              "end": 30,
+              "id": "1857167754588991489",
+              "start": 15,
+              "username": "Ninetta1749974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085365563107471571",
+        "in_reply_to_user_id": "2009620713460887553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085308903512998145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HujiaoFen_sad @Ninetta1749974 这盗的谁的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009620713460887553",
+        "conversation_id": "2085302679811862771",
+        "created_at": "2026-08-06T10:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085308903512998145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1857167754588991489",
+              "start": 0,
+              "username": "Ninetta1749974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085308903512998145",
+        "in_reply_to_user_id": "1857167754588991489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085302679811862771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ninetta1749974 臭盗图狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 152,
+          "like_count": 121,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "拉吉塔尼的鹦鹉会笑/双相患者/一个温柔善良的人/我会对所有无恶意的人保持友好/🚪88纯绿",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "死んだ僕の彼女",
+        "pinned_tweet_id": "2074518375217447038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085236812377972736/P2qSvHPA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 257,
+          "like_count": 442,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 857
+        },
+        "url": "",
+        "username": "HujiaoFen_sad",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T21:04:41.000Z",
+        "description": "ひっそりバンドしてます\n裏｜@saurabh600001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "saurabh600001"
+              }
+            ]
+          }
+        },
+        "id": "1857167754588991489",
+        "name": "こなつ",
+        "pinned_tweet_id": "2018353794204291095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016537973001756672/eb4J8YmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14988,
+          "following_count": 13,
+          "like_count": 44,
+          "listed_count": 37,
+          "media_count": 89,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "Ninetta1749974",
+        "verified": false
+      }
+    ]
+  }
+}

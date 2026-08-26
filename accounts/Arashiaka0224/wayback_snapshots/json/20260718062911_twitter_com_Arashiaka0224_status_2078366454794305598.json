@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2078168876161056772",
+    "created_at": "2026-07-18T06:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078366454794305598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1991291387384565760",
+          "start": 0,
+          "username": "TvThanovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078366454794305598",
+    "in_reply_to_user_id": "1991291387384565760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078168876161056772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvThanovo 唧唧操你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078168863192371200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcjkgnb0AAEP_D.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2078168876161056772",
+        "created_at": "2026-07-18T06:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078366454794305598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1991291387384565760",
+              "start": 0,
+              "username": "TvThanovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078366454794305598",
+        "in_reply_to_user_id": "1991291387384565760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078168876161056772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvThanovo 唧唧操你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078168863192371200"
+          ]
+        },
+        "author_id": "1991291387384565760",
+        "conversation_id": "2078168876161056772",
+        "created_at": "2026-07-17T17:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078168876161056772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5LviBLnlv3",
+              "end": 23,
+              "expanded_url": "https://x.com/TvThanovo/status/2078168876161056772/photo/1",
+              "media_key": "3_2078168863192371200",
+              "start": 0,
+              "url": "https://t.co/5LviBLnlv3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078168876161056772",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4832,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5LviBLnlv3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 117,
+          "like_count": 65,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T23:44:09.000Z",
+        "description": "我只想平淡安稳🚪88",
+        "id": "1991291387384565760",
+        "location": "欢迎同类互fo请直接私信我",
+        "name": "AzureYou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076687948247097345/7j8jOCiw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 23,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "TvThanovo",
+        "verified": false
+      }
+    ]
+  }
+}

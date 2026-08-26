@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074518372214296577"
+      ],
+      "media_source_tweet_id": [
+        "2074518375217447038"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2084543740258243060",
+    "created_at": "2026-08-04T07:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084543740258243060"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "门槛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2009620713460887553",
+          "start": 3,
+          "username": "HujiaoFen_sad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9cHIlNcwL9",
+          "end": 46,
+          "expanded_url": "https://x.com/HujiaoFen_sad/status/2074518375217447038/photo/1",
+          "media_key": "3_2074518372214296577",
+          "start": 23,
+          "url": "https://t.co/9cHIlNcwL9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084543740258243060",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074518375217447038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HujiaoFen_sad: #门槛 https://t.co/9cHIlNcwL9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2074518372214296577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMord9_a0AEz1C-.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074518372214296577"
+          ]
+        },
+        "author_id": "2009620713460887553",
+        "conversation_id": "2074518375217447038",
+        "created_at": "2026-07-07T15:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074518375217447038"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9cHIlNcwL9",
+              "end": 27,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2074518375217447038/photo/1",
+              "media_key": "3_2074518372214296577",
+              "start": 4,
+              "url": "https://t.co/9cHIlNcwL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074518375217447038",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#门槛 https://t.co/9cHIlNcwL9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074518372214296577"
+          ],
+          "media_source_tweet_id": [
+            "2074518375217447038"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2084543740258243060",
+        "created_at": "2026-08-04T07:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084543740258243060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "门槛"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2009620713460887553",
+              "start": 3,
+              "username": "HujiaoFen_sad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9cHIlNcwL9",
+              "end": 46,
+              "expanded_url": "https://x.com/HujiaoFen_sad/status/2074518375217447038/photo/1",
+              "media_key": "3_2074518372214296577",
+              "start": 23,
+              "url": "https://t.co/9cHIlNcwL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084543740258243060",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074518375217447038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HujiaoFen_sad: #门槛 https://t.co/9cHIlNcwL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 145,
+          "like_count": 111,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T13:43:28.000Z",
+        "description": "拉吉塔尼的鹦鹉会笑/双相患者/一个温柔善良的人/我会对所有无恶意的人保持友好/🚪88纯绿",
+        "id": "2009620713460887553",
+        "location": "广东省",
+        "name": "死んだ僕の彼女",
+        "pinned_tweet_id": "2074518375217447038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084117245496811520/WIBr7y-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 250,
+          "like_count": 430,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 824
+        },
+        "url": "",
+        "username": "HujiaoFen_sad",
+        "verified": false
+      }
+    ]
+  }
+}

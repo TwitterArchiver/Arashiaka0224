@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2088280960811081820",
+    "created_at": "2026-08-15T09:57:57.000Z",
+    "display_text_range": [
+      40,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088565854212632717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592697440343162880",
+          "start": 0,
+          "username": "akenohotaru"
+        },
+        {
+          "end": 26,
+          "id": "1386670401422434304",
+          "start": 13,
+          "username": "xx1012000456"
+        },
+        {
+          "end": 39,
+          "id": "1781745564738281472",
+          "start": 27,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088565854212632717",
+    "in_reply_to_user_id": "1592697440343162880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088348057712914875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akenohotaru @xx1012000456 @Stolly21_TG 别这么说 现在很多人吸那个sunto 久了呼吸难受咳痰想吐 我感觉会肺水肿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2088280960811081820",
+        "created_at": "2026-08-15T09:57:57.000Z",
+        "display_text_range": [
+          40,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088565854212632717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            },
+            {
+              "end": 26,
+              "id": "1386670401422434304",
+              "start": 13,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 39,
+              "id": "1781745564738281472",
+              "start": 27,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088565854212632717",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088348057712914875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru @xx1012000456 @Stolly21_TG 别这么说 现在很多人吸那个sunto 久了呼吸难受咳痰想吐 我感觉会肺水肿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2088280960811081820",
+        "created_at": "2026-08-14T19:32:31.000Z",
+        "display_text_range": [
+          27,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088348057712914875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 26,
+              "id": "1781745564738281472",
+              "start": 14,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088348057712914875",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088339594928668993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @Stolly21_TG 这我还真不了解，我是那样用的，你能解释一下吗，这我真不是很懂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2088565854212632717",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1784380464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 171,
+          "like_count": 185,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯乙胺类/pr戒断中/音游痴/术力口/生物/化学/药理/互fo/来找我聊天吧₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088363960680800344",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592697440343162880/1786725673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 163,
+          "like_count": 735,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2088365245542879704",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 706,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2170
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "学习药理的oder、edtwt、162cm35kg、鼻吸130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "id": "1781745564738281472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088312551650336860",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2081013860522148111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781745564738281472/1780291296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 275,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 687
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

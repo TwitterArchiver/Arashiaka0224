@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065710366198583296"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2065710434892804555",
+    "created_at": "2026-06-13T08:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065710434892804555"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "yakui"
+        },
+        {
+          "end": 27,
+          "start": 14,
+          "tag": "yakuithemaid"
+        },
+        {
+          "end": 41,
+          "start": 28,
+          "tag": "nijiuramaids"
+        },
+        {
+          "end": 50,
+          "start": 42,
+          "tag": "cosplay"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "fyp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6IvALKsxTI",
+          "end": 79,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2065710434892804555/video/1",
+          "media_key": "13_2065710366198583296",
+          "start": 56,
+          "url": "https://t.co/6IvALKsxTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065710434892804555",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "💊🍄💉🤤🌵🍃💜#yakui #yakuithemaid #nijiuramaids #cosplay #fyp https://t.co/6IvALKsxTI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065710434892804555].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065710434892804555",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065710434892804555"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11033,
+        "height": 1006,
+        "media_key": "13_2065710366198583296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065710366198583296/img/9S1rqQa2PMV1vXKq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065710366198583296/vid/avc1/320x446/W6smBgQqWa-eLwn5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065710366198583296/vid/avc1/480x670/YYX_xHkkaHp8C100.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065710366198583296/vid/avc1/720x1006/YosnIHXB3Dzszrpv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065710366198583296/pl/wbTyEofZTvmjNfSA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 95,
+          "like_count": 36,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      }
+    ]
+  }
+}

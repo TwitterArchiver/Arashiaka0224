@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078446567313604608"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2078446615535432002",
+    "created_at": "2026-07-18T11:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T12:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078446615535432002"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "jiraikei"
+        },
+        {
+          "end": 15,
+          "start": 10,
+          "tag": "メンヘラ"
+        },
+        {
+          "end": 35,
+          "start": 16,
+          "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Csh4eCE2kE",
+          "end": 59,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2078446615535432002/video/1",
+          "media_key": "13_2078446567313604608",
+          "start": 36,
+          "url": "https://t.co/Csh4eCE2kE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078446615535432002",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#jiraikei #メンヘラ #雰囲気１ｍｍでもいいと思ったらいいね https://t.co/Csh4eCE2kE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15370,
+        "height": 960,
+        "media_key": "13_2078446567313604608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078446567313604608/img/Demey8ayzAN0Cbox.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078446567313604608/vid/avc1/320x426/9URtRuuKAevOxvo2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078446567313604608/vid/avc1/480x640/rbx3vu3rOH_CG0VS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078446567313604608/vid/avc1/720x960/K9ryCYhTTSjB09SZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078446567313604608/pl/W6JRp2LoALcEz0Ae.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078446567313604608"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2078446615535432002",
+        "created_at": "2026-07-18T11:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078446615535432002"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "jiraikei"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "メンヘラ"
+            },
+            {
+              "end": 35,
+              "start": 16,
+              "tag": "雰囲気１ｍｍでもいいと思ったらいいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Csh4eCE2kE",
+              "end": 59,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2078446615535432002/video/1",
+              "media_key": "13_2078446567313604608",
+              "start": 36,
+              "url": "https://t.co/Csh4eCE2kE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078446615535432002",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#jiraikei #メンヘラ #雰囲気１ｍｍでもいいと思ったらいいね https://t.co/Csh4eCE2kE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 47,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3NGO"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "location": "未來電波基地",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 119,
+          "like_count": 65,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/dxbSmc3NGO",
+        "username": "Arashiaka0224",
+        "verified": false
+      }
+    ]
+  }
+}

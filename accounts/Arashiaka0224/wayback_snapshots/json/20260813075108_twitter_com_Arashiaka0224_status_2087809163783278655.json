@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087809146452418560",
+        "3_2087809146448203776",
+        "3_2087809146422976512",
+        "3_2087809146444001280"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2087809163783278655",
+    "created_at": "2026-08-13T07:51:08.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087809163783278655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QGNRDJgWba",
+          "end": 29,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2087809163783278655/photo/1",
+          "media_key": "3_2087809146452418560",
+          "start": 6,
+          "url": "https://t.co/QGNRDJgWba"
+        },
+        {
+          "display_url": "pic.x.com/QGNRDJgWba",
+          "end": 29,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2087809163783278655/photo/1",
+          "media_key": "3_2087809146448203776",
+          "start": 6,
+          "url": "https://t.co/QGNRDJgWba"
+        },
+        {
+          "display_url": "pic.x.com/QGNRDJgWba",
+          "end": 29,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2087809163783278655/photo/1",
+          "media_key": "3_2087809146422976512",
+          "start": 6,
+          "url": "https://t.co/QGNRDJgWba"
+        },
+        {
+          "display_url": "pic.x.com/QGNRDJgWba",
+          "end": 29,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2087809163783278655/photo/1",
+          "media_key": "3_2087809146444001280",
+          "start": 6,
+          "url": "https://t.co/QGNRDJgWba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087809163783278655",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087809146452418560"
+      },
+      {
+        "media_key": "3_2087809146448203776"
+      },
+      {
+        "media_key": "3_2087809146422976512"
+      },
+      {
+        "media_key": "3_2087809146444001280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ほろ酔い🍺 https://t.co/QGNRDJgWba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087809146452418560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPljW2UboAAq_ai.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087809146448203776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPljW2TbUAAYS_j.jpg",
+        "width": 1504
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087809146422976512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPljW2NaYAAFuR8.jpg",
+        "width": 1512
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087809146444001280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPljW2SbMAAztYG.jpg",
+        "width": 1510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087809146452418560",
+            "3_2087809146448203776",
+            "3_2087809146422976512",
+            "3_2087809146444001280"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2087809163783278655",
+        "created_at": "2026-08-13T07:51:08.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087809163783278655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGNRDJgWba",
+              "end": 29,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2087809163783278655/photo/1",
+              "media_key": "3_2087809146452418560",
+              "start": 6,
+              "url": "https://t.co/QGNRDJgWba"
+            },
+            {
+              "display_url": "pic.x.com/QGNRDJgWba",
+              "end": 29,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2087809163783278655/photo/1",
+              "media_key": "3_2087809146448203776",
+              "start": 6,
+              "url": "https://t.co/QGNRDJgWba"
+            },
+            {
+              "display_url": "pic.x.com/QGNRDJgWba",
+              "end": 29,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2087809163783278655/photo/1",
+              "media_key": "3_2087809146422976512",
+              "start": 6,
+              "url": "https://t.co/QGNRDJgWba"
+            },
+            {
+              "display_url": "pic.x.com/QGNRDJgWba",
+              "end": 29,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2087809163783278655/photo/1",
+              "media_key": "3_2087809146444001280",
+              "start": 6,
+              "url": "https://t.co/QGNRDJgWba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087809163783278655",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087809146452418560"
+          },
+          {
+            "media_key": "3_2087809146448203776"
+          },
+          {
+            "media_key": "3_2087809146422976512"
+          },
+          {
+            "media_key": "3_2087809146444001280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ほろ酔い🍺 https://t.co/QGNRDJgWba"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2087809163783278655",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1784380464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 170,
+          "like_count": 162,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
