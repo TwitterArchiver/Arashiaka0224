@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2089398611331465495",
+    "created_at": "2026-08-25T20:19:08.000Z",
+    "display_text_range": [
+      10,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T21:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092346055333736485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092346055333736485",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089398611331465495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 直接狠狠骂他恶心他呀 他都这样了如果说自己发作了什么的有点脆弱的状态估计只会觉得你真的磕药了疯魔了 就是加深对你的刻板印象 这种已经不是背刺了纯纯说话不过脑子的唇珠😹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089398592343846912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8I8xrbMAAHDtv.jpg",
+        "width": 813
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089398592293466112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8I8xfacAAoqmH.jpg",
+        "width": 806
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089398592301891584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP8I8xhbAAA0QAL.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2089398611331465495",
+        "created_at": "2026-08-25T20:19:08.000Z",
+        "display_text_range": [
+          10,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092346055333736485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092346055333736485",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089398611331465495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 直接狠狠骂他恶心他呀 他都这样了如果说自己发作了什么的有点脆弱的状态估计只会觉得你真的磕药了疯魔了 就是加深对你的刻板印象 这种已经不是背刺了纯纯说话不过脑子的唇珠😹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089398592343846912",
+            "3_2089398592293466112",
+            "3_2089398592301891584"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "conversation_id": "2089398611331465495",
+        "created_at": "2026-08-17T17:07:02.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089398611331465495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zj05BSBTA",
+              "end": 165,
+              "expanded_url": "https://x.com/Mintink3/status/2089398611331465495/photo/1",
+              "media_key": "3_2089398592343846912",
+              "start": 142,
+              "url": "https://t.co/3zj05BSBTA"
+            },
+            {
+              "display_url": "pic.x.com/3zj05BSBTA",
+              "end": 165,
+              "expanded_url": "https://x.com/Mintink3/status/2089398611331465495/photo/1",
+              "media_key": "3_2089398592293466112",
+              "start": 142,
+              "url": "https://t.co/3zj05BSBTA"
+            },
+            {
+              "display_url": "pic.x.com/3zj05BSBTA",
+              "end": 165,
+              "expanded_url": "https://x.com/Mintink3/status/2089398611331465495/photo/1",
+              "media_key": "3_2089398592301891584",
+              "start": 142,
+              "url": "https://t.co/3zj05BSBTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089398611331465495",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089398592343846912"
+          },
+          {
+            "media_key": "3_2089398592293466112"
+          },
+          {
+            "media_key": "3_2089398592301891584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "大家真的不要让身边健全人知道你在嗑药 不然有的贱人就会一直提 甚至不分场合地在别人面前说我嗑药 \n\n我今天帮他发单 他自己发错地址 然后在有其他朋友的群里说我嗑药是我发错的\n\n我说了我没有嗑药 说了我没发错 还跟别人说是我发错了一直骂我 骂了我一天了我本来陪客户就受尽委屈我还受他气 我直接爆发了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13373,
+          "like_count": 133,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家真的不要让身边健全人知道你在嗑药 不然有的贱人就会一直提 甚至不分场合地在别人面前说我嗑药 \n\n我今天帮他发单 他自己发错地址 然后在有其他朋友的群里说我嗑药是我发错的\n\n我说了我没有嗑药 说了我没发错 还跟别人说是我发错了一直骂我 骂了我一天了我本来陪客户就受尽委屈我还受他气 https://t.co/3zj05BSBTA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2092346055333736485",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1784380464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 197,
+          "like_count": 300,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 重度焦虑 重度睡眠障碍餐券女休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2092325610853171526",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2088276815936888874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 1070,
+          "like_count": 9497,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
