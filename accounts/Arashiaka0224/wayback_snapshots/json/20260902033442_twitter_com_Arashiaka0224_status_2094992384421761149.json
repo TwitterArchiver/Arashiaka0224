@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2094641451921748055",
+    "created_at": "2026-09-02T03:34:42.000Z",
+    "display_text_range": [
+      10,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T04:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094992384421761149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094992384421761149",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094641451921748055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 二级其实很好考我妈也是这个等级😢但是她不否认自己有问题因为医生都说了我双相就是遗传的她的 而且现在业内不是已经不认这个东西了 只是工作必须要的资质而已 不然出了事不好说 只能说自以为是是搞心理学的通病了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2094641451921748055",
+        "created_at": "2026-09-02T03:34:42.000Z",
+        "display_text_range": [
+          10,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094992384421761149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094992384421761149",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094641451921748055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 二级其实很好考我妈也是这个等级😢但是她不否认自己有问题因为医生都说了我双相就是遗传的她的 而且现在业内不是已经不认这个东西了 只是工作必须要的资质而已 不然出了事不好说 只能说自以为是是搞心理学的通病了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094641451921748055",
+        "created_at": "2026-09-01T04:20:13.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:09:05.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094638651653362170",
+          "2094640238694174798",
+          "2094640623550910706",
+          "2094641451921748055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094641451921748055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大 但是她说她考过了国家心理咨询师二级证书 她说她很健全 都是我才心理有问题\n\n我真的受不了\n\n我本来就是受不了她在家经常因为一些非常小的事情（比如我晾衣服的时候衣服没扯平衣角）而让我跪着四个小时一直骂我才跑出来生活的 \n\n她把从她家人对她催婚和一直嫌弃她不成事的无奈 对前夫（我爸）出轨和欠钱不还的愤恨 对来自公司其他人对她的勾心斗角 都发泄在了我身上\n\n但是没办法我还是没法脱离原生家庭 我妈妈现在每个月还要找我要钱\n\n我发誓以上我说的都是真的\n\n这真的太窒息了\n\n我妈妈已经报警抓我差不多10次了 \n\n我曾经因为被报警太多次 被室友嫌弃闹掰了 我现在独居"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3066,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2094992384421761149",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1784380464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 218,
+          "like_count": 360,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094916543239106652",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 1097,
+          "like_count": 10922,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

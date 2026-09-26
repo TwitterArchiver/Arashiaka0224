@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2095850378197918107",
+    "created_at": "2026-09-04T15:24:05.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095895683505275203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1411701388086812673",
+          "start": 0,
+          "username": "Thedeviloflusg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095895683505275203",
+    "in_reply_to_user_id": "1411701388086812673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095850378197918107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thedeviloflusg 想吃你的🦶"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8566,
+        "height": 1280,
+        "media_key": "13_2095850347348758528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095850347348758528/img/RxkFdQ-AAUNBPJJ8.jpg",
+        "public_metrics": {
+          "view_count": 76
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095850347348758528/vid/avc1/320x568/ABqnQAgvXMEmQE4s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095850347348758528/vid/avc1/480x852/HDVn8t0SFD2ZGR1P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095850347348758528/vid/avc1/720x1280/DEF21OKriPGTmI46.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095850347348758528/pl/rlYNGdIQoj22WjPe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2095850378197918107",
+        "created_at": "2026-09-04T15:24:05.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095895683505275203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1411701388086812673",
+              "start": 0,
+              "username": "Thedeviloflusg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095895683505275203",
+        "in_reply_to_user_id": "1411701388086812673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095850378197918107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thedeviloflusg 想吃你的🦶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095850347348758528"
+          ]
+        },
+        "author_id": "1411701388086812673",
+        "conversation_id": "2095850378197918107",
+        "created_at": "2026-09-04T12:24:03.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095850378197918107"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "武汉"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RB3CP4W2xE",
+              "end": 31,
+              "expanded_url": "https://x.com/Thedeviloflusg/status/2095850378197918107/video/1",
+              "media_key": "13_2095850347348758528",
+              "start": 8,
+              "url": "https://t.co/RB3CP4W2xE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095850378197918107",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2095850347348758528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#武汉 #线下 https://t.co/RB3CP4W2xE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2095895683505275203",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1784380464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 217,
+          "like_count": 381,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-04T15:00:31.000Z",
+        "description": "switch/非二元性别/🈶️🚪私聊我",
+        "id": "1411701388086812673",
+        "is_identity_verified": false,
+        "location": "🚪88",
+        "most_recent_tweet_id": "2095850378197918107",
+        "name": "桔梗",
+        "pinned_tweet_id": "1962412165006315642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411701388086812673/1750792003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937588162618101760/kPYrLIOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2954,
+          "following_count": 130,
+          "like_count": 14053,
+          "listed_count": 13,
+          "media_count": 336,
+          "tweet_count": 2461
+        },
+        "url": "",
+        "username": "Thedeviloflusg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

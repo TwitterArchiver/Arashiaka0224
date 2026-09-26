@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2101173293923578196",
+    "created_at": "2026-09-22T03:55:13.000Z",
+    "display_text_range": [
+      30,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T04:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102245305899245876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998633997623300096",
+          "start": 0,
+          "username": "17kxscvooo45974"
+        },
+        {
+          "end": 29,
+          "id": "1689109126364934144",
+          "start": 17,
+          "username": "yi_xia44156"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102245305899245876",
+    "in_reply_to_user_id": "1998633997623300096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101198574596002052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17kxscvooo45974 @yi_xia44156 不知道是不是茉酸奶有点像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2101173293923578196",
+        "created_at": "2026-09-22T03:55:13.000Z",
+        "display_text_range": [
+          30,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102245305899245876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998633997623300096",
+              "start": 0,
+              "username": "17kxscvooo45974"
+            },
+            {
+              "end": 29,
+              "id": "1689109126364934144",
+              "start": 17,
+              "username": "yi_xia44156"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102245305899245876",
+        "in_reply_to_user_id": "1998633997623300096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101198574596002052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17kxscvooo45974 @yi_xia44156 不知道是不是茉酸奶有点像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998633997623300096",
+        "conversation_id": "2101173293923578196",
+        "created_at": "2026-09-19T06:35:53.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101198574596002052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689109126364934144",
+              "start": 0,
+              "username": "yi_xia44156"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101198574596002052",
+        "in_reply_to_user_id": "1689109126364934144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101173293923578196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi_xia44156 那个黄黄的奶茶是什么呀，看起来好好喝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2102245305899245876",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1788821807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 217,
+          "like_count": 463,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T06:00:59.000Z",
+        "description": "https://t.co/Yn9N2Xn3ac长时间不更新就是去到啊片星球了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/erfjjuu",
+                "end": 23,
+                "expanded_url": "https://t.me/erfjjuu",
+                "start": 0,
+                "url": "https://t.co/Yn9N2Xn3ac"
+              }
+            ]
+          }
+        },
+        "id": "1998633997623300096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102186218536702386",
+        "name": "liyuexi263527282🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998633997623300096/1781697073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089300666359664640/x2Seu3j3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 295,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "17kxscvooo45974",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-09T02:59:44.000Z",
+        "description": "我是夏逸/kisaki｜oder｜日语学习中｜电子日记本｜我会严格遵守推特规则\n会fo同成分\n我闺蜜💀@amyusk9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "amyusk9"
+              }
+            ]
+          }
+        },
+        "id": "1689109126364934144",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2101898167889359285",
+        "name": "kisaki",
+        "pinned_tweet_id": "2090714168932323462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689109126364934144/1784296995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101942030389727232/quLGuqCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 183,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "yi_xia44156",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

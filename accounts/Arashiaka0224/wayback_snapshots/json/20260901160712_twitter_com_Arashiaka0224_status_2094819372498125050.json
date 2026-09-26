@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2061085349976432640",
+    "conversation_id": "2094819372498125050",
+    "created_at": "2026-09-01T16:07:12.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T17:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094819372498125050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yongchuxiaoyu/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yongchuxiaoyu/status/2094647576729678149",
+          "start": 5,
+          "url": "https://t.co/fITgiJn4dY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094819372498125050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094647576729678149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绷不住了 https://t.co/fITgiJn4dY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2094647569440018433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRGu3dIbkAEHbnC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061085349976432640",
+        "conversation_id": "2094819372498125050",
+        "created_at": "2026-09-01T16:07:12.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094819372498125050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yongchuxiaoyu/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yongchuxiaoyu/status/2094647576729678149",
+              "start": 5,
+              "url": "https://t.co/fITgiJn4dY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094819372498125050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094647576729678149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绷不住了 https://t.co/fITgiJn4dY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094647569440018433"
+          ]
+        },
+        "author_id": "1844709071741665280",
+        "conversation_id": "2094647576729678149",
+        "created_at": "2026-09-01T04:44:33.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094647576729678149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxO2GkzGeA",
+              "end": 31,
+              "expanded_url": "https://x.com/yongchuxiaoyu/status/2094647576729678149/photo/1",
+              "media_key": "3_2094647569440018433",
+              "start": 8,
+              "url": "https://t.co/KxO2GkzGeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094647576729678149",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094647569440018433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6472,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我看是吃太饱了 https://t.co/KxO2GkzGeA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2094819372498125050",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1784380464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 218,
+          "like_count": 350,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-11T11:58:20.000Z",
+        "description": "MTX | hrt2023.3.3 | 不od不自残 | 不线下 | 女装纯爱好中性为日常 | 正在视察伪人",
+        "id": "1844709071741665280",
+        "is_identity_verified": false,
+        "location": "11城45区14路1919号8楼10号",
+        "most_recent_tweet_id": "2094688834814669249",
+        "name": "永雏小鱼🍥",
+        "pinned_tweet_id": "2071767846422753299",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844709071741665280/1783639914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089030424098222080/61uhtisl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 44,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 896
+        },
+        "url": "",
+        "username": "yongchuxiaoyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

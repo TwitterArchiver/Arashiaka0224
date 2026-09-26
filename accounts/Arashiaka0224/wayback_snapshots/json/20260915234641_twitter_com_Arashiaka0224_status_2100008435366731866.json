@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100008429788213249"
+      ]
+    },
+    "author_id": "2061085349976432640",
+    "conversation_id": "2100008435366731866",
+    "created_at": "2026-09-15T23:46:41.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T00:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100008435366731866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/knKZ7tNB3K",
+          "end": 23,
+          "expanded_url": "https://x.com/Arashiaka0224/status/2100008435366731866/photo/1",
+          "media_key": "3_2100008429788213249",
+          "start": 0,
+          "url": "https://t.co/knKZ7tNB3K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100008435366731866",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2100008429788213249"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/knKZ7tNB3K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 757,
+        "media_key": "3_2100008429788213249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSS6imLaMAExam-.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100008429788213249"
+          ]
+        },
+        "author_id": "2061085349976432640",
+        "conversation_id": "2100008435366731866",
+        "created_at": "2026-09-15T23:46:41.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100008435366731866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/knKZ7tNB3K",
+              "end": 23,
+              "expanded_url": "https://x.com/Arashiaka0224/status/2100008435366731866/photo/1",
+              "media_key": "3_2100008429788213249",
+              "start": 0,
+              "url": "https://t.co/knKZ7tNB3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100008435366731866",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100008429788213249"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/knKZ7tNB3K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T14:01:42.000Z",
+        "description": "最低🚪88 私信只回zfb口令\n双相1型 asd 焦虑障碍 cptsd/intj💜/血腥黄色猎奇键政避雷/#drugtwt/互fo互转欢迎/LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arashi0224",
+                "end": 23,
+                "expanded_url": "http://t.me/Arashi0224",
+                "start": 0,
+                "url": "https://t.co/dxbSmc3fRg"
+              }
+            ]
+          }
+        },
+        "id": "2061085349976432640",
+        "is_identity_verified": false,
+        "location": "未來電波基地",
+        "most_recent_tweet_id": "2100008435366731866",
+        "name": "Arashi",
+        "pinned_tweet_id": "2062420765241471117",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061085349976432640/1788821807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061085919617363968/PrIUHU4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 222,
+          "like_count": 445,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/dxbSmc3fRg",
+        "username": "Arashiaka0224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
